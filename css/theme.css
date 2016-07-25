@@ -4346,3 +4346,9 @@ footer.short-2 .contact-action:hover {
 .hook-bg h1, .hook-bg h5  { color: #ff453c !important; }
 .bg-grey { background-color: #ccc; }
 .bg-dark-grey { background: #666;}
+.padding-more { padding: 80px 0;}
+
+.feature-box-ffa  h1 { margin-bottom: 6px; }
+
+.company .btn:hover { background: #ff453c; border-color:#ff453c; color: #fff;}
+.company .btn-primary { color: #666;}
